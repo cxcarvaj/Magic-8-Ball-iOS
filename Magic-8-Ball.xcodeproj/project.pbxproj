@@ -24,6 +24,7 @@
 		9B5D35322920368600F6D87E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B5D35342920368600F6D87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9B5D353E2920488400F6D87E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9B5D354029204C0500F6D87E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		9B5D351A2920368500F6D87E = {
 			isa = PBXGroup;
 			children = (
+				9B5D354029204C0500F6D87E /* README.md */,
 				9B5D35252920368500F6D87E /* Magic-8-Ball */,
 				9B5D35242920368500F6D87E /* Products */,
 			);
